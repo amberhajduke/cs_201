@@ -1,3 +1,6 @@
 [submodule "HW0_1"]
 	path = HW0_1
 	url = https://github.com/amberhajduke/HW0_1.git
+[submodule "HW0_2"]
+	path = HW0_2
+	url = https://github.com/amberhajduke/HW0_2.git
